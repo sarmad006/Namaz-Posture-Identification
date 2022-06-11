@@ -22,7 +22,7 @@ A webcam based namaz posture identification on **media pipe**
 
 ## Demo
 
-[Demo][https://drive.google.com/file/d/1AjiqrXHDrsBTGc1CLXA01VRnfJ79W3Nv/view]
+[Demo](https://drive.google.com/file/d/1AjiqrXHDrsBTGc1CLXA01VRnfJ79W3Nv/view)
 
 **Note** : It won't work on google colab run it on local host jupyter notebook
 
